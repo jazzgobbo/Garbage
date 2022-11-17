@@ -1,5 +1,4 @@
 import '../styles/NavBar.css'
-import Search from './Search.js';
 
 const NavBar = () => {
   return (
