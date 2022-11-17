@@ -1,127 +1,62 @@
 [
   {
-    "CATEGORY": "Athletics-and-Recreation",
-    "ID": 0,
-    "LOCATION": "Galaxy far, far away",
-    "PAY RATE": [
-      1
-    ],
-    "TERM AVAILABLE": "A long time ago",
-    "TITLE": "Athletics and Recreation: General Info",
-    "URL": "https://undergradaid.northwestern.edu/work-study/jobs/on-campus-jobs/_athletics-and-recreation-general-info.html"
-  },
-  {
-    "CATEGORY": "Other",
-    "ID": 1,
-    "LOCATION": "Galaxy far, far away",
-    "PAY RATE": [
-      1
-    ],
-    "TERM AVAILABLE": "A long time ago",
-    "TITLE": "Concerts@Bienen: General Info",
-    "URL": "https://undergradaid.northwestern.edu/work-study/jobs/on-campus-jobs/_concerts-at-bienen-general-info.html"
-  },
-  {
-    "CATEGORY": "Other",
-    "ID": 2,
-    "LOCATION": "Galaxy far, far away",
-    "PAY RATE": [
-      1
-    ],
-    "TERM AVAILABLE": "A long time ago",
-    "TITLE": "Library: General Info",
-    "URL": "https://undergradaid.northwestern.edu/work-study/jobs/on-campus-jobs/_library-general-info.html"
-  },
-  {
-    "CATEGORY": "Other",
-    "ID": 3,
-    "LOCATION": "Galaxy far, far away",
-    "PAY RATE": [
-      1
-    ],
-    "TERM AVAILABLE": "A long time ago",
-    "TITLE": "Norris University Center: General Info",
-    "URL": "https://undergradaid.northwestern.edu/work-study/jobs/on-campus-jobs/_norris-general-info.html"
-  },
-  {
-    "CATEGORY": "Technical",
-    "ID": 4,
-    "LOCATION": "Galaxy far, far away",
-    "PAY RATE": [
-      1
-    ],
-    "TERM AVAILABLE": "A long time ago",
-    "TITLE": "NU Information Technology (NUIT) : General Info",
-    "URL": "https://undergradaid.northwestern.edu/work-study/jobs/on-campus-jobs/_nu-information-technology-nuit-general-info.html"
-  },
-  {
-    "CATEGORY": "Other",
-    "ID": 5,
-    "LOCATION": "Galaxy far, far away",
-    "PAY RATE": [
-      1
-    ],
-    "TERM AVAILABLE": "A long time ago",
-    "TITLE": "Residential Services: General Info",
-    "URL": "https://undergradaid.northwestern.edu/work-study/jobs/on-campus-jobs/_residential-services-general-info.html"
-  },
-  {
-    "CATEGORY": "Administrative",
-    "CONTACT EMAIL": "t-rosner@northwestern.edu",
-    "CONTACT NAME": "Tamara Rosner",
-    "CONTACT PHONE NUMBER": "(847) 491-2210",
-    "DEPARTMENT": "Administration/Faculty Affairs, Weinberg College",
+    "CATEGORY": "Gluten free",
+    "CONTACT EMAIL": "",
+    "CONTACT NAME": "",
+    "CONTACT PHONE NUMBER": "(847) 866-9900",
+    "DEPARTMENT": "Spanish",
     "ID": 6,
-    "JOB DESCRIPTION": "This is primarily a front desk position in the Weinberg Dean’s Office. Spring 2022 hours needed are Mondays and Wednesdays from 10am -3:30pm. Re-employment in subsequent quarters is contingent upon availability.\nOther duties may include (1) providing general administrative office support such as digitizing documents, electronic/paper filing, copying, making deliveries, reception, and sorting mail; (2) preparing and updating\ndocuments like Word files, Excel spreadsheets, and Adobe PDFs; (3) reviewing and updating website; (4) performing other duties as assigned in a supportive environment.",
-    "LOCATION": "Northwestern - Evanston Campus",
-    "NUMBER OF POSITIONS AVAILABLE": "1-2",
+    "JOB DESCRIPTION": "",
+    "LOCATION": "1615 Chicago Ave, Evanston, IL 60201",
+    "NUMBER OF POSITIONS AVAILABLE": "",
     "PAY RATE": [
-      13.1
+      "$$"
     ],
-    "QUALIFICATIONS": "Must be a Northwestern undergraduate student with a Federal Work-Study allotment for the 2021-2022 academic year (CAESAR > Financial Aid > View My Financial Aid > [2022].)\nPreferred candidates will demonstrate excellent communication and interpersonal skills, flexibility and willingness to learn new things, attention to detail, the ability to work with sensitive information and maintain confidentiality, and strong computer skills (esp. Adobe Acrobat Pro & Microsoft Office Suite including Excel).",
-    "TERM AVAILABLE": "Spring 2022",
-    "TITLE": "Administration Faculty Affairs - Weinberg College: Clerical Aide 2",
-    "URL": "https://undergradaid.northwestern.edu/work-study/jobs/on-campus-jobs/administrationfaculty-affairs---weinberg-college-clerical-aide-2.html",
-    "WORK ARRANGEMENTS": "In person only"
+    "QUALIFICATIONS": "",
+    "TERM AVAILABLE": "",
+    "TITLE": "Tapas Barcelona",
+    "URL": "",
+    "WORK ARRANGEMENTS": "Opens 5PM"
   },
   {
-    "CATEGORY": "Administrative",
-    "CONTACT EMAIL": "julie.lavin@northwestern.edu",
-    "CONTACT NAME": "Julie Lavin",
-    "CONTACT PHONE NUMBER": "(847) 467-2262",
-    "DEPARTMENT": "American Studies",
+    "CATEGORY": "Vegan",
+    "CONTACT EMAIL": "",
+    "CONTACT NAME": "",
+    "CONTACT PHONE NUMBER": "(847) 866-9900",
+    "DEPARTMENT": "Brunch",
     "ID": 7,
-    "JOB DESCRIPTION": "To create a weekly newsletter for the students in the program to keep them informed about upcoming events and other things happening on campus that may be of interest.",
-    "LOCATION": "Northwestern - Evanston Campus",
-    "NUMBER OF POSITIONS AVAILABLE": "1",
+    "JOB DESCRIPTION": "",
+    "LOCATION": "827 Church St, Evanston, IL 60202",
+    "NUMBER OF POSITIONS AVAILABLE": "",
     "PAY RATE": [
-      18
+      "$$"
     ],
-    "QUALIFICATIONS": "Must be a Northwestern undergraduate student with a Federal Work-Study allotment for the 2021-2022 academic year (CAESAR > Financial Aid > View My Financial Aid > [YEAR].)",
-    "TERM AVAILABLE": "Spring 2022",
-    "TITLE": "American Studies: Newsletter Creation",
-    "URL": "https://undergradaid.northwestern.edu/work-study/jobs/on-campus-jobs/american-studies-newsletter-creation.html",
-    "WORK ARRANGEMENTS": "Remote"
+    "QUALIFICATIONS": "",
+    "TERM AVAILABLE": "",
+    "TITLE": "Le Peep Evanston",
+    "URL": "",
+    "WORK ARRANGEMENTS": "Open"
   },
   {
-    "CATEGORY": "Administrative",
-    "CONTACT EMAIL": "matthew.martin1@northwestern.edu",
-    "CONTACT NAME": "Matt Martin",
-    "CONTACT PHONE NUMBER": "(847) 491-7346",
-    "DEPARTMENT": "Art Theory and Practice",
+    "CATEGORY": "Gluten free",
+    "CONTACT EMAIL": "",
+    "CONTACT NAME": "",
+    "CONTACT PHONE NUMBER": "(847) 864-8328",
+    "DEPARTMENT": "American",
     "ID": 8,
-    "JOB DESCRIPTION": "Position will include creating posters for events and courses; assisting in the planning, set-up/take-down of events (receptions, lectures, etc.); documenting/recording lectures; and working in the department main office, which includes some clerical work.\nIdeal applicant should have experience with Adobe Creative Cloud, specifically Photoshop and inDesign.",
-    "LOCATION": "Northwestern - Evanston Campus",
-    "NUMBER OF POSITIONS AVAILABLE": "1",
+    "JOB DESCRIPTION": "",
+    "LOCATION": "1635 Chicago Ave, Evanston, IL 60201",
+    "NUMBER OF POSITIONS AVAILABLE": "",
     "PAY RATE": [
-      13.5
+      "$$"
     ],
-    "QUALIFICATIONS": "Must be a Northwestern undergraduate student with a Federal Work-Study allotment for the 2021-2022 academic year (CAESAR > Financial Aid > View My Financial Aid > [YEAR].)",
-    "TERM AVAILABLE": "Spring 2022",
-    "TITLE": "Art Theory and Practice: Event Aide",
-    "URL": "https://undergradaid.northwestern.edu/work-study/jobs/on-campus-jobs/art-theory-and-practice-event-aide.html",
-    "WORK ARRANGEMENTS": "In person only"
+    "QUALIFICATIONS": "",
+    "TERM AVAILABLE": "",
+    "TITLE": "Prarie Moon",
+    "URL": "",
+    "WORK ARRANGEMENTS": "Open"
   },
+  
   {
     "CATEGORY": "Administrative",
     "CONTACT EMAIL": "emun@northwestern.edu",
