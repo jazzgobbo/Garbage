@@ -4,7 +4,7 @@ const NavBar = () => {
   return (
     <nav className="nav">
       <div className="nav-title">
-        my<span className="nav-title-nu">NU</span>Job
+        <span className="nav-title-nu">SeekHosts</span>
       </div>
       <div className="form-outline">
         {/* <Search/> */}

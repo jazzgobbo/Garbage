@@ -1,10 +1,10 @@
 import "./App.css";
 import React, { useState } from "react";
-import JobList from "./components/JobList.js";
+import RestaurantList from "./components/RestaurantList.js";
 import FilterMenu from "./components/FilterMenu.js";
 import NavBar from "./components/NavBar.js";
 import SortBar from "./components/SortBar";
-import jobList from "./Restaurants.json";
+import restaurantData from "./Restaurants.json";
 
 import { useData } from "./utilities/firebase.js";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -12,17 +12,11 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 
 const App = () => {
-  // const [sortWage, setSortWage] = useState("")
   const [sortDirection, setSortDirection] = useState("");
   const [filterCategories, setFilterCategories] = useState([]);
-  //const [jobList, loading, error] = useData("/");
-
-  //if (error) return <h1>{error}</h1>;
-  //if (loading) return <h1>Loading your jobs...</h1>;
-
-  const jobCategories = Array.from(
+  const restaurantCategories = Array.from(
     new Set(
-      Object.values(jobList).map((j) => {
+      Object.values(restaurantData).map((j) => {
         return j.CATEGORY;
       })
     )
@@ -32,10 +26,10 @@ const App = () => {
     <div className="app-body">
       <NavBar />
       <div className="container">
-        <div className="filters-and-jobs">
+        <div className="filters-and-restaurants">
           <div className="filters-list">
             <FilterMenu
-              jobCategories={jobCategories}
+              restaurantCategories={restaurantCategories}
               filterCategories={filterCategories}
               setFilterCategories={setFilterCategories}
               sortDirection={sortDirection}
@@ -43,8 +37,8 @@ const App = () => {
             />
           </div>
           <div className="cards-list">
-            <JobList
-              jobs={jobList}
+            <RestaurantList
+              restaurants={restaurantData}
               filterCategories={filterCategories}
               sortDirection={sortDirection}
             />

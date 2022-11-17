@@ -9,19 +9,19 @@ import SortBar from "./SortBar.js";
 // work arrangements
 
 const FilterMenu = ({
-  jobCategories,
+  restaurantCategories,
   filterCategories,
   setFilterCategories,
   sortDirection,
   setSortDirection,
 }) => {
-  jobCategories.sort();
+  restaurantCategories.sort();
 
   return (
     <div className="filter-menu">
       <h2>Filters</h2>
       <h4>Category</h4>
-      {jobCategories.map((category) => (
+      {restaurantCategories.map((category) => (
         <Filter
           role="filter"
           filterCategories={filterCategories}
