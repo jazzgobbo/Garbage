@@ -1,0 +1,47 @@
+
+.App {
+  text-align: center;
+}
+
+.app-body * {
+  box-sizing: border-box;
+  /* border: solid 2px black; */
+}
+
+.app-body {
+  display: flex;
+  flex-direction: column;
+}
+
+Nav {
+  top: 0;
+  position: sticky;
+  z-index: 100;
+}
+
+.app-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.sort-bar{
+  align-self: flex-end;
+}
+
+.filters-and-jobs{
+  display: flex;
+  flex-direction: row;
+}
+
+.cards-list{
+  width: 80%;
+}
+
+.filters-list{
+  position: sticky;
+}
